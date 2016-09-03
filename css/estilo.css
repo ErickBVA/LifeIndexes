@@ -1,0 +1,27 @@
+td{
+	padding: 5px;
+}
+
+h1{
+	color: blue;
+}
+
+h2{
+	color: blue;
+}
+
+.table{
+	width: 80%;
+	text-align: center;
+}
+
+.texto{
+	-webkit-text-stroke: 1px black;
+   color: white;
+   /*text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;*/
+}
